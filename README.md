@@ -42,7 +42,7 @@
 </div>
 <br>
 <div align="center">
-  🌱 I’m currently learning Laravel, VueJS
+  🌱 I’m currently doing interesting things with PHP & Laravel
 
   📫 Email for work at vantuan.webdev@gmail.com<br>
   📄 Know more about me on  https://beacons.ai/nvantuan
