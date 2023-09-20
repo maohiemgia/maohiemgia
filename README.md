@@ -30,7 +30,7 @@
   <img width="300px" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <div align="center">
   <h3 align="center">About me <img align="center" src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></h3>
-  <h4 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> , I'm Nguyễn Văn Tuấn aka Tuan </h4>
+  <h4 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> , I'm Nguyễn Văn Tuấn aka Tara </h4>
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=500&color=C8BE2E&background=283339&center=true&vCenter=true&width=600&height=100&lines=PHP+Backend+Developer+%F0%9F%A4%93%F0%9F%A4%93+;%F0%9F%8C%90+Website+Developer+%F0%9F%8C%90;%F0%9F%8D%80%F0%9F%8D%80+Nice+to+meet+you%F0%9F%8D%80%F0%9F%8D%80)](https://git.io/typing-svg)
   
